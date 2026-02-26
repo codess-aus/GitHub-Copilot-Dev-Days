@@ -47,7 +47,7 @@ Our social media templates are designed to maximize engagement across all major 
 
 ### Required Information to Add
 
-* [ ] **Event name**: `GitHub Copilot Dev Days | [City Name]`
+* [ ] **Event name**: `GitHub Copilot Dev Days [City Name]`
 * [ ] **Event date** (e.g., "April 15, 2026")
 * [ ] **Event time** (e.g., "2:00 PM – 5:00 PM")
 * [ ] **Location name** (e.g. "Tech Hub Conference Center")
