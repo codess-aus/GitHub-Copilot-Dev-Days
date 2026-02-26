@@ -28,6 +28,23 @@ GitHub Copilot Dev Days content supports two event formats:
 
 Each content item below includes its **type**, **estimated time**, and **level** to help you build a well-balanced agenda.
 
+## 🔍 Prerequisites
+
+GitHub Copilot Dev Days events are open to developers of all experience levels. Different events may cover different topics that are more relevant for a subset of developers. For example, there is a workshop geared toward App Modernization that may be less relevant to beginners.
+
+**For organizers**:
+
+- Clearly define the topics you plan to cover on your registration page.
+
+- Include any additional prerequisites relevant to your event. Make sure to inform attendees whether they need to bring their own laptops or if devices will be provided at the venue (common for events hosted at universities).
+
+**For attendees**:
+
+- **GitHub Copilot free subscription** — [Sign up here](https://github.com/features/copilot?utm_source=devdays-event-signup-cta&utm_medium=web&utm_campaign=copilot-devdays-2026)
+
+- Laptop — Required for events that include a hands-on workshop.
+Note: Some events may focus on specific topics (e.g., App Modernization) that are more relevant for experienced developers.
+
 ## ✨ GitHub Copilot Dev Days – Core Content Session
 This session can be used in every GitHub Copilot Dev Days event.
 

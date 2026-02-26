@@ -8,28 +8,27 @@ Customize it with your local event details, such as date, time, location, and ag
 ## Before you start
 
 * 1️⃣ Use the following event name format:
-  `GitHub Copilot Dev Days [City Name]`
-  Example: `GitHub Copilot Dev Days São Paulo`
-* 2️⃣ GitHub Copilot Dev Days can be hosted in **two formats**:
-
-  * **Sessions-only**
-  * **Sessions + Workshop** (recommended duration: **3 hours**)
-* If you choose the **Sessions + Workshop** format, your agenda should include:
-
-  * **2 technical sessions:** each session should be between 30 to 45 minutes long
-  * **1 hands-on workshop:** minimum of 60 minutes for practical exercises using GitHub Copilot
+  `GitHub Copilot Dev Days | [City Name]`
+  Example: `GitHub Copilot Dev Days | São Paulo`
+* 2️⃣ GitHub Copilot Dev Days are open to all developers. But if you plan to cover a topic that has additional prerequisites or experience suggestions, please state this in your registration page.
 * 3️⃣ Clearly state whether participants need to **bring their own laptops** or if computers will be provided by the venue.
 
 ---
 
 ## Suggested event cover
 
+**For Luma**
+![Promotional graphic for “GitHub Copilot Dev Days.” GitHub Copilot Dev Days event announcement featuring Copilot above a GitHub logo cube, with City Name and Event Date details.](../assets/example-luma-event-cover.png)
+*Use this image as a visual reference for your event page.*
+
+**Other Registration Platforms**
+
 ![Promotional graphic for “GitHub Copilot Dev Days.” The left side has a black background with the GitHub Copilot logo at the top and placeholder text for city, date, time, and location. The right side features a 3D illustration of the Copilot character floating above a green gradient panel with the GitHub mark.](../assets/example-event-cover.png)
 *Use this image as a visual reference for your event page.*
 
 ---
 
-## **GitHub Copilot Dev Days [Your City]**
+## **GitHub Copilot Dev Days | [Your City]**
 
 Join us for a community-led developer event focused on **AI-assisted coding with GitHub Copilot**.
 This event brings together developers to explore practical workflows, real-world use cases, and hands-on experiences using GitHub Copilot.
@@ -40,7 +39,7 @@ Whether you are new to GitHub Copilot or already using it, this event will help 
 
 ## 🗓️ Event format
 
-Choose the format that best fits your audience, available infrastructure, and time.
+Choose the format that best fits your audience, available infrastructure, and time. This is flexible and you may customize the format.
 
 ### Sessions-only
 
@@ -64,11 +63,15 @@ Choose the format that best fits your audience, available infrastructure, and ti
 ## 📅 Sample agenda (Sessions + Workshop)
 
 *[Time]* – **Check-in & Networking**
+
 *[Time]* – **Welcome & Opening**
-*[Time]* – **Session 1: GitHub Copilot in Practice**
-*[Time]* – **Session 2: Community Speaker Session**
-*[Organizer to add title and description]*
+
+*[Time]* – **Session 1: GitHub Copilot in Practice** *[or similar title]*
+
+*[Time]* – **Session 2: Community Speaker Session** *[Organizer to add title and description]*
+
 *[Time]* – **Workshop: Hands-on with GitHub Copilot**
+
 *[Time]* – **Closing & Next Steps**
 
 ---
@@ -78,7 +81,7 @@ Choose the format that best fits your audience, available infrastructure, and ti
 We are committed to providing a welcoming and inclusive environment for all participants.
 Please review the event **Code of Conduct** before attending.
 
-👉 [https://www.microsoft.com/en-us/events/code-of-conduct](https://www.microsoft.com/en-us/events/code-of-conduct)
+👉 [Event Code of Conduct](../EVENT_CODE_OF_CONDUCT.md)
 
 ---
 
